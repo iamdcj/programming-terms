@@ -11,3 +11,8 @@ let theme = "dark";
 
 This particular piece of information may change based on a particular event, action, or external information.
 
+```
+clicker = (theme) => {
+    theme = theme // light
+}
+```
